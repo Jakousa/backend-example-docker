@@ -16,7 +16,7 @@ Install all packages with `npm install`
 
 # Starting in production mode
 
-The following are needed from exercise 1.5 onward. Notice, that not everything is necessary for all the exercises.
+The following are needed from exercise 1.11 onward. Notice, that not everything is necessary for all the exercises.
 
 ## Exercise 1.11 -> starting project
 
